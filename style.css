@@ -1,9 +1,9 @@
 body{
 color: white;
 background: rgb(139, 5, 5);
+font-family:"Faculty Glyphic", serif;
     }
-
-    chamada{
+ chamada{
     background:blueviolet;
     padding-botton: 80px;
     padding-top: 80px;
